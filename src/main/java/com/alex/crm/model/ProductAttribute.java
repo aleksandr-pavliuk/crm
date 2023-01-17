@@ -3,6 +3,6 @@ package com.alex.crm.model;
 /**
  * @author Oleksandr Pavliuk
  */
-public class Client {
+public class ProductAttribute {
 
 }
